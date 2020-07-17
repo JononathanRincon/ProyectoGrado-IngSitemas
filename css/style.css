@@ -1,0 +1,40 @@
+
+body{
+	padding-right: 150px;
+	padding-left: 150px;
+}
+.menu{	
+	background-color: #fc4607;
+	width: 1000px;
+	height: 50px;
+	border-radius: 20px;
+}
+.menu a {
+	padding: 0;
+	color: white;
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;
+
+}
+
+.menu a:hover{
+	background-color: #ad3008;
+		border-radius: 10px;
+
+}
+.menu a p{
+	display: block;
+	padding-right: 46px;
+	padding-left: 46px;
+}
+.Titulo{
+	padding-top: 25px;
+	text-align: center;
+}
+.container{
+	
+}
+.presentacion
+
+
