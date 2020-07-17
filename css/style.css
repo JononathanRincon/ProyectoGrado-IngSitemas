@@ -4,7 +4,7 @@ body{
 	padding-left: 150px;
 }
 .menu{	
-	background-color: #fc4607;
+	background-color: #545352;
 	width: 1000px;
 	height: 50px;
 	border-radius: 20px;
@@ -19,7 +19,7 @@ body{
 }
 
 .menu a:hover{
-	background-color: #ad3008;
+	background-color: #db9169;
 		border-radius: 10px;
 
 }
@@ -32,9 +32,30 @@ body{
 	padding-top: 25px;
 	text-align: center;
 }
-.container{
-	
-}
-.presentacion
+.Container{	
+	padding-left: 50px;
+	font-size: 1.2em;
+	padding-right: 50px;
 
+}
+.presentacion1{
+	background-color: #807f7e;
+	padding: 0;
+	margin: 0;
+}
+.presentacion2{
+	background-color: #c7c2bf;
+	padding: 0;
+	margin: 0;
+}
+.presentacion3{
+	background-color: #807f7e;
+	padding: 0;
+	margin: 0;
+}
+.presentacion4{
+	background-color: #c7c2bf;
+	padding: 0;
+	margin: 0;
+}
 
